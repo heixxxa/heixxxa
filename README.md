@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @heixxxa
-- 👀 I’m interested in program compile & software analysis
+- 👀 I’m interested in Program Compilation & Software Security
 - 🌱 I’m currently learning llvm & CFI
 
 <!---
